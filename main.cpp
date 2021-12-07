@@ -1,3 +1,7 @@
+/*
+ * CREATED BY KARIM LECHGUY
+*/
+
 #pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
 #include "game.h"
 
